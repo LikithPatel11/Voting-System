@@ -1,1 +1,1 @@
-# Voting-Syatem
+# Voting-System
